@@ -2,12 +2,24 @@ import 'package:app/firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'pages/accueil.dart';
+import 'env.dart';
 
 void main() async{ 
   WidgetsFlutterBinding.ensureInitialized();
+
+  env.load();
+
+  if (env['API_KEY'] == null) {
+    throw FlutterError(
+      'API_KEY not found in .env. Add API_KEY=... to .env at project root.'
+    );
+  }
+  
   await Firebase.initializeApp(
       options: DefaultFirebaseOptions.currentPlatform,
   );
+  
+  
   runApp(const SaldaeMarketApp());
   }
 
