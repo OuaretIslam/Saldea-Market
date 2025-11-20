@@ -73,18 +73,18 @@ saldae_market/
 
 ## 📱 Captures d’écran  
 
-![Library Screenshot](app/assets/images/Saldea_Market_Admin.png)
+![Admin Screenshot](app/assets/images/Saldea_Market_Admin.png)
 
-D:\main\stage\Saldea_Market_Vendeur.png
+![Vendeur Screenshot](app/assets/images/Saldea_Market_Vendeur.png)
 
 
-D:\main\stage\Saldea_Market_Client.png
+![Client Screenshot](app/assets/images/Saldea_Market_Client.png)
 
 
 ---
 
 ## 📦 Installation
-
+--
 ### Cloner le projet
 ```bash
 git clone https://github.com/your-repo/saldae-market.git
@@ -107,8 +107,8 @@ Tests :
 
 flutter test
 
+--
 ---
-
 👥 Équipe :
 
 Moussaoui Abderezzak Raouf
