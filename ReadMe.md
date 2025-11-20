@@ -53,20 +53,22 @@ Développée dans le cadre d’un projet universitaire en Licence Informatique.
 
 ## 📂 Structure du Projet
 
+```
 saldae_market/
 ├── lib/
-│ ├── models/
-│ ├── screens/
-│ ├── services/
-│ ├── widgets/
-│ └── main.dart
+│   ├── models/
+│   ├── screens/
+│   ├── services/
+│   ├── widgets/
+│   └── main.dart
 ├── assets/
-│ ├── images/
-│ └── icons/
+│   ├── images/
+│   └── icons/
 ├── android/
 ├── ios/
 ├── web/
 └── README.md
+```
 
 ---
 
