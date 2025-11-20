@@ -76,7 +76,7 @@ saldae_market/
 
 | Admin | Vendor | Client |
 |-------|--------|--------|
-| ![Admin Screenshot](assets/images/Saldea_Market_Admin.png) | ![Vendor Screenshot](assets/images/Saldea_Market_Vendeur.png) | ![Client Screenshot](assets/images/Saldea_Market_Client.png) |
+| ![Admin Screenshot](app/assets/images/Saldea_Market_Admin.png) | ![Vendor Screenshot](app/assets/images/Saldea_Market_Vendeur.png) | ![Client Screenshot](app/assets/images/Saldea_Market_Client.png) |
 
 ---
 
