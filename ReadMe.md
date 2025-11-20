@@ -71,17 +71,24 @@ saldae_market/
 
 ---
 
-## 📱 Captures d’écran  
+---
 
-![Admin Screenshot](assets/images/Saldea_Market_Admin.png)
-![Vendeur Screenshot](assets/images/Saldea_Market_Vendeur.png)
-![Client Screenshot](assets/images/Saldea_Market_Client.png)
+## 📱 Screenshots
+
+| Admin | Vendor | Client |
+|-------|--------|--------|
+| ![Admin Screenshot](assets/images/Saldea_Market_Admin.png) | ![Vendor Screenshot](assets/images/Saldea_Market_Vendeur.png) | ![Client Screenshot](assets/images/Saldea_Market_Client.png) |
 
 ---
 
 ## 📦 Installation
---
-### Cloner le projet
+
+### Prerequisites
+- Flutter SDK
+- Dart
+- Firebase account
+
+### Clone the project
 ```bash
 git clone https://github.com/your-repo/saldae-market.git
 cd saldae-market
