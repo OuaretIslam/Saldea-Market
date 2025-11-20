@@ -68,9 +68,6 @@ saldae_market/
 ├── web/
 └── README.md
 
-
----
-
 ---
 
 ## 📱 Screenshots
@@ -92,39 +89,43 @@ saldae_market/
 ```bash
 git clone https://github.com/your-repo/saldae-market.git
 cd saldae-market
+```
 
 Installer les dépendances:
 
+```bash
 flutter pub get
+```
 
 Ajouter Firebase :
 
-android/app/google-services.json
-ios/Runner/GoogleService-Info.plist
+- android/app/google-services.json  
+- ios/Runner/GoogleService-Info.plist
 
 Lancer l’app :
 
+```bash
 flutter run
+```
 
 Tests :
 
+```bash
 flutter test
+```
 
---
 ---
+
 👥 Équipe :
 
-Moussaoui Abderezzak Raouf
-Moussouni Aris
-Nacerddine Manel
-Ouaissa Chanez
-Ouaret Islam
-Oudjani Zineddine Said
-Rezkallah Massil
+- Moussaoui Abderezzak Raouf  
+- Moussouni Aris  
+- Nacerddine Manel  
+- Ouaissa Chanez  
+- Ouaret Islam  
+- Oudjani Zineddine Said  
+- Rezkallah Massil
 
 📜 Licence
 
 Projet académique — 2025/2026.
-
-
-
