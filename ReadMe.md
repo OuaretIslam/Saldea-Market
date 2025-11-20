@@ -73,7 +73,7 @@ saldae_market/
 
 ## 📱 Captures d’écran  
 
-![Library Screenshot](D:\main\stage\Saldea_Market_Admin.png)
+![Library Screenshot](app/assets/images/Saldea_Market_Admin.png)
 
 D:\main\stage\Saldea_Market_Vendeur.png
 
