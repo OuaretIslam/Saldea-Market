@@ -108,7 +108,10 @@ Tests :
 
 flutter test
 
+---
+
 👥 Équipe :
+
 Moussaoui Abderezzak Raouf
 Moussouni Aris
 Nacerddine Manel
@@ -122,4 +125,4 @@ Rezkallah Massil
 Projet académique — 2025/2026.
 
 
----
+
